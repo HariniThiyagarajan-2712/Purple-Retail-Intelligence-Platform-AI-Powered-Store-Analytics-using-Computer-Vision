@@ -1,0 +1,73 @@
+[
+  
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 1,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 2,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 3,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 4,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 5,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 6,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 8,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 21,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 24,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 26,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 28,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 42,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 45,
+        "camera": "CAM2"
+    },
+    {
+        "event": "NEW_VISITOR",
+        "person_id": 54,
+        "camera": "CAM2"
+    }
+]
